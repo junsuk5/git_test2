@@ -1,2 +1,3 @@
 Hello Git
 git은 재미없다
+드럽게 어렵다
